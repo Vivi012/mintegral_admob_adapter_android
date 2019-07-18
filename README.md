@@ -1,0 +1,1 @@
+# mintegral_admob_adapter_android
