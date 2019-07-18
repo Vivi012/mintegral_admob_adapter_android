@@ -1,1 +1,4 @@
 # mintegral_admob_adapter_android
+
+这个仓库主要是为了方便开发者通过admob聚合minegral的android广告sdk
+
